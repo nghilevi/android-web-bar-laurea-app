@@ -1,0 +1,18 @@
+User can choose different Laurea's branch.
+
+Each Laurea branch will have:
++ Menu list tab
++ A news tab
++ About tab (include some information and map)
+
+
+Menu list can contain images (base 64 json) /icon (resource file in android)
+
+A way for user to give feedback
+
+A way for user to poll
+
+Payment online
+
+
+
