@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:padding="10dp"
+            android:paddingTop="10dp"
+            />
+
+    <TextView
+        android:id="@+id/weekDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:paddingTop="5dp"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/meat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/weekDay"
+        android:layout_toRightOf="@+id/imageView"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/vegetable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/meat"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/meat"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/soup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/vegetable"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/vegetable"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/specialOffer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/soup"
+        android:layout_toRightOf="@+id/imageView"
+        android:text="TextView" />
+
+</RelativeLayout>
