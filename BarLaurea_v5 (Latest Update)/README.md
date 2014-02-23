@@ -1,4 +1,4 @@
-# Firebase Chat Android Application
+# BarLaurea Version 5
 
 This application demonstrates using Firebase to power an Android
 [ListView](https://developer.android.com/guide/topics/ui/layout/listview.html).
@@ -8,4 +8,3 @@ In this case, we implement a simple chat application to demonstrate the function
 Create your own [Firebase](https://www.firebase.com), fork this repo, and incorporate the technique
 into your own application.
 
-Also, check out our [Quickstart guide](https://www.firebase.com/docs/java-quickstart.html) for more information on setting up the Firebase SDK on Android.
