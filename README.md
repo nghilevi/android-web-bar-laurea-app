@@ -15,6 +15,8 @@ To use the android app, just download the apk file here at https://github.com/vi
 
 You will see that the information displayed on the device sync instantly whenerver you change something on the web view.
 
+I do recommend you to install the apk file on your device and start playing with the web app, since only doing so will help you see the true beauty of the app, which does not lie only on the UI side. It transfer data instanntly and that's what I believe in modern web apps and mobile apps are.
+
 Screenshots
 -------
 ![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/Bar-Laurea-Menu-Android-App/Screenshot.png)
@@ -32,7 +34,7 @@ Future Development
 -------
 Finding what food will be servered at Laurea cafeteria has never been easier with this app. The idea is it's not only easy to use for the direct users, it also helps Laurea employees a lot in inputing, modifying and managing entries without any IT knowledge. The app syncs dynamically and offer a good user experience. 
 
-Even though having almost all core functionalities at the moment, the app needs to have an authentication mechanism, especially for the front-end web module and a way to store, manage and retrieve data in multiple weeks, months, even years.
+Even though having almost all core functionalities at the moment, the app needs to have an authentication as well as validation mechanism, especially for the front-end web module and a way to store, manage and retrieve data in multiple weeks, months, even years, even in offline environment.
 
 
 
