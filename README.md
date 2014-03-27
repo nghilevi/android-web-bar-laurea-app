@@ -19,10 +19,10 @@ I do recommend you to install the apk file on your device and start playing with
 
 Screenshots
 -------
-![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/Bar-Laurea-Menu-Android-App/Screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/BarLaurea-2.png)
 
 
-![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/Bar-Laurea-Menu-Web-App/Screenshot-web-app.PNG)
+![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/BarLaurea-1.png)
 
 Development notes
 -------
