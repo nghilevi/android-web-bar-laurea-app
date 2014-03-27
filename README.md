@@ -18,6 +18,8 @@ You will see that the information displayed on the device sync instantly whenerv
 Screenshots
 -------
 ![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/Bar-Laurea-Menu-Android-App/Screenshot.png)
+
+
 ![ScreenShot](https://raw.githubusercontent.com/vinhnghi223/Bar-Laurea-Menu-App/master/Bar-Laurea-Menu-Web-App/Screenshot-web-app.PNG)
 
 Development notes
