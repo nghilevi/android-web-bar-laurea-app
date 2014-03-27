@@ -2,7 +2,7 @@ BarLaurea Menu Android App
 ================
 Description 
 -------
-This project includes 2 bid modules, one is BarLaurea Menu Web App, another is BarLaurea Android App. Both modules has been connected and ready to use. Even though these modules are just prototypes, they have enough core fucntionalities to server real users.
+This project includes 2 big modules, one is BarLaurea Menu Web App, another is BarLaurea Android App. Both modules has been connected and ready to use. Even though these modules are just prototypes, they have enough core fucntionalities to server real users.
 
 BarLaurea Android App will be for the end users meanwhile BarLaurea Web App is only used by BarLaurea's employees. The ideas are whenever BarLaurea's employees change something on the web view, information in the device will be update dynamically and instantly even without the end user's awareness.
 
