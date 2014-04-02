@@ -4,7 +4,7 @@ Introduction
 -------
 This project includes 2 big modules, one is BarLaurea Menu Web App, and another is BarLaurea Android App. Both modules have been connected and ready to use. Even though these modules are just prototypes, they have enough core functionalities  to serve real users and use cases.
 
-BarLaurea Android App will be for the end users meanwhile BarLaurea Web App is only used by BarLaurea's employees. The idea is whenever BarLaurea's employees change something on the web view, information in the device will be updated dynamically and instantly, even without end user's awareness.
+BarLaurea Android App will be for the end users meanwhile BarLaurea Web App is only used by BarLaurea's employees. The idea is whenever BarLaurea's employees change something on the web view, information in the device will be updated dynamically and instantly, even without end user's awareness. This way of implementation can also be useful in many situations like scheduling updating (for school, transportation, sport etc.)
 
 Demo notes
 -------
