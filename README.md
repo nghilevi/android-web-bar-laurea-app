@@ -17,8 +17,8 @@ BarLaurea Android App will be used by the general public users while BarLaurea W
 This way of implementation can also be useful in many situations like scheduling updating (for school, transportation, sport etc.) or imagine an app that can lookup all the lunch offer in near by canteens and cafeterias.
 
 ##Demo notes##
-Web app Demo Link: [Demo](http://goo.gl/WnNuzm) 
-APK File (Click on Raw): [Download](http://goo.gl/WdPE0E)
+Web app Demo Link: [Demo Link](http://goo.gl/WnNuzm) 
+APK File (Click on Raw to download): [Download](http://goo.gl/WdPE0E)
 
 For its openness and demonstrational purposes it has not been added any layer of authentication at the moment. Anyone can use it and type anything they want.
 
@@ -49,7 +49,7 @@ The second version of the product (current version) has a huge improvement in pe
 
 ###Future development
    *  implement authentication, validation
-   *  a way to manage data by weeks/months
+   *  create a way to manage data by weeks/months
    *  ability to store data offline in the app
 
 
