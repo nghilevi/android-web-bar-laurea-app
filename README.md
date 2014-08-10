@@ -1,4 +1,4 @@
-Finding what food will be severed at Laurea cafeteria has never been easier with this app. The idea is it's not only easy to use for the direct users, it also helps Laurea employees a lot in inputting, modifying and managing entries without any IT knowledge. The app syncs dynamically and offer a good user experience. 
+Real time menu app take Laurea cafeteria menu (BarLaurea) as a use case. The app allows BarLaurea staff easily update their menu on real time.  
 
 ##Table of Contents##
 
@@ -12,7 +12,7 @@ Finding what food will be severed at Laurea cafeteria has never been easier with
 ##Introduction##
 This project includes 2 big modules, one is BarLaurea Menu Web App, and another is BarLaurea Android App. Both modules have been connected and ready to use. 
 
-BarLaurea Android App will be used by the general public users while BarLaurea Web App is accessed only by  BarLaurea's employees/admins. The idea is whenever BarLaurea's employees change something on the web view, information in the device will be updated dynamically and instantly.
+BarLaurea Android App will be used by the general public users while BarLaurea Web App is accessed only by  BarLaurea's employees/admins. The idea is whenever BarLaurea's employees change something on the web interface, information will be update in the application on user's device.
 
 This way of implementation can also be useful in many situations like scheduling updating (for school, transportation, sport etc.) or imagine an app that can lookup all the lunch offer in near by canteens and cafeterias.
 
